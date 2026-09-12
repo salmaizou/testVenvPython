@@ -21,7 +21,7 @@ jobs:
 
       - name: Installer les dépendances
         run: |
-          pip install -r requirements.txt
+          pip install -r requirement.txt
 
       - name: Lancer les tests
         run: |
