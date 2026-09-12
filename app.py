@@ -5,6 +5,5 @@ app = Flask(__name__)
 
 def accueil():
      return "Ismail m'a enguelé cet aprem et je suis pas contente mais aujourd'hui je suis contente et heureuse , OOOK"
-
 if __name__ == "__main__":
      app.run(debug=True)
